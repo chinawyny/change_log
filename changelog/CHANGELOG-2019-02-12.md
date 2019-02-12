@@ -1608,3 +1608,9 @@
 - gcr.io/google-containers/fluentd-gcp:2.0.7
 - gcr.io/google-containers/fluentd-gcp:2.0.8
 - gcr.io/google-containers/fluentd-gcp:2.0.9
+### 2019-02-12 18:49:56 Update:
+
+- gcr.io/distroless/java:8
+- gcr.io/distroless/java:8-debug
+- gcr.io/distroless/java:11
+- gcr.io/distroless/java:11-debug

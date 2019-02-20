@@ -84,3 +84,8 @@
 - gcr.io/google-containers/hyperkube-arm:v1.15.0-alpha.0
 - gcr.io/google-containers/hyperkube-s390x:v1.14.0-beta.0
 - gcr.io/google-containers/hyperkube-arm:v1.14.0-beta.0
+### 2019-02-20 14:52:33 Update:
+
+- gcr.io/distroless/static:e0330762672c79ab165c85294f3cd02d4a556ef3
+- gcr.io/distroless/static:158ae9cbc2c8f03d944db2b5ee08b5a4cbba9371
+- gcr.io/distroless/static:2919676567198597ec4985fff4cd127a0555a03f

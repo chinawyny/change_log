@@ -6,3 +6,6 @@
 - gcr.io/google-containers/kube-state-metrics-s390x:v1.5.0
 - gcr.io/google-containers/kube-state-metrics-arm64:v1.5.0
 - gcr.io/google-containers/kube-cross:v1.12.0-1
+### 2019-02-28 14:52:19 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.13.0

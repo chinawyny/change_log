@@ -39,3 +39,15 @@
 - gcr.io/google-containers/hyperkube:v1.15.0-alpha.1
 - gcr.io/google-containers/hyperkube-amd64:v1.15.0-alpha.1
 - gcr.io/google-containers/hyperkube-arm:v1.15.0-alpha.1
+### 2019-04-17 15:16:51 Update:
+
+- gcr.io/fluentd-elasticsearch/fluentd:v2.4.0
+- gcr.io/fluentd-elasticsearch/fluentd:multistage
+- gcr.io/fluentd-elasticsearch/fluentd:v2.5.1
+- gcr.io/fluentd-elasticsearch/fluentd:v2.5.0
+- gcr.io/fluentd-elasticsearch/fluentd-elasticsearch:latest
+- gcr.io/fluentd-elasticsearch/elasticsearch:multistage
+- gcr.io/fluentd-elasticsearch/fluentd-elasticsearch:multi-stage
+- gcr.io/fluentd-elasticsearch/elasticsearch:multi-stage
+- gcr.io/fluentd-elasticsearch/elasticsearch:v6.6.1
+- gcr.io/fluentd-elasticsearch/elasticsearch:v6.6.0

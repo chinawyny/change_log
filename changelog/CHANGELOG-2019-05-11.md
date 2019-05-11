@@ -4,3 +4,6 @@
 ### 2019-05-11 15:20:35 Update:
 
 - gcr.io/kubernetes-helm/tiller:v2.14.0-rc.2
+### 2019-05-11 15:22:19 Update:
+
+- gcr.io/fluentd-elasticsearch/elasticsearch:v6.7.2

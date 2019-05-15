@@ -90,3 +90,6 @@
 - gcr.io/google-containers/hyperkube-arm:v1.15.0-beta.0
 - gcr.io/google-containers/hyperkube-arm64:v1.15.0-beta.0
 - gcr.io/google-containers/hyperkube-arm64:v1.16.0-alpha.0
+### 2019-05-15 15:33:14 Update:
+
+- gcr.io/fluentd-elasticsearch/fluentd:v2.5.2

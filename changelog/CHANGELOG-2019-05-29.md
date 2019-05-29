@@ -44,3 +44,6 @@
 - gcr.io/google-containers/conformance-s390x:v1.15.0-beta.1
 - gcr.io/google-containers/hyperkube-arm64:v1.15.0-beta.1
 - gcr.io/google-containers/conformance-arm64:v1.15.0-beta.1
+### 2019-05-29 15:36:28 Update:
+
+- gcr.io/fluentd-elasticsearch/elasticsearch:v6.8.0

@@ -105,3 +105,29 @@
 - gcr.io/google-samples/tf-jupyter-server:latest
 - gcr.io/google-samples/twilio-vision:v1
 - gcr.io/google-samples/steps-twotier:k8s
+### 2019-06-05 11:56:03 Update:
+
+- gcr.io/google-samples/prometheus-dummy-exporter:latest
+- gcr.io/google-samples/redis-proxy:v1
+- gcr.io/google-samples/redis-bq-pipe:v3
+- gcr.io/google-samples/redis-bq-pipe:v4
+- gcr.io/google-samples/redis-bq-pipe:v1
+- gcr.io/google-samples/redis-bq-pipe:v2
+- gcr.io/google-samples/redis-bq-pipe:v5
+- gcr.io/google-samples/tf-workshop:v2
+- gcr.io/google-samples/tf-workshop:v5
+- gcr.io/google-samples/twilio-vision:v1
+- gcr.io/google-samples/tf-workshop:v6
+- gcr.io/google-samples/style-transfer:v1
+- gcr.io/google-samples/tf-workshop:v1
+- gcr.io/google-samples/tf-workshop:v7
+- gcr.io/google-samples/tf-workshop:v8
+- gcr.io/google-samples/steps-twotier:k8s
+- gcr.io/google-samples/steps-twotier:secret
+- gcr.io/google-samples/sd-dummy-exporter:latest
+- gcr.io/google-samples/tf-k8s-worker:latest
+- gcr.io/google-samples/tf-jupyter-server:latest
+- gcr.io/google-samples/xtrabackup:1.0
+- gcr.io/google-samples/tf-workshop:v3
+- gcr.io/google-samples/tf-worker-example:latest
+- gcr.io/google-samples/tf-workshop:v4

@@ -42,3 +42,6 @@
 - gcr.io/google-containers/kube-scheduler-ppc64le:v1.15.0-beta.2
 - gcr.io/google-containers/kube-scheduler-amd64:v1.15.0-beta.2
 - gcr.io/google-containers/kube-proxy-arm64:v1.15.0-beta.2
+### 2019-06-06 15:39:06 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.14.1

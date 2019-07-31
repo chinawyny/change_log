@@ -42,3 +42,6 @@
 - gcr.io/google-containers/kube-proxy:v1.16.0-alpha.2
 - gcr.io/google-containers/kube-scheduler-arm:v1.16.0-alpha.2
 - gcr.io/google-containers/kube-proxy-s390x:v1.16.0-alpha.2
+### 2019-07-31 16:09:54 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.14.3

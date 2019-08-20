@@ -252,3 +252,16 @@
 - gcr.io/google-containers/kube-proxy-amd64:v1.13.10
 - gcr.io/google-containers/kube-proxy-arm:v1.14.7-beta.0
 - gcr.io/google-containers/kube-proxy-arm:v1.15.4-beta.0
+### 2019-08-20 16:40:06 Update:
+
+- gcr.io/google-samples/currencyservice:v0.1.2
+- gcr.io/google-samples/frontend:v0.1.2
+- gcr.io/google-samples/productcatalogservice:v0.1.2
+- gcr.io/google-samples/checkoutservice:v0.1.2
+- gcr.io/google-samples/emailservice:v0.1.2
+- gcr.io/google-samples/shippingservice:v0.1.2
+- gcr.io/google-samples/recommendationservice:v0.1.2
+- gcr.io/google-samples/loadgenerator:v0.1.2
+- gcr.io/google-samples/cartservice:v0.1.2
+- gcr.io/google-samples/paymentservice:v0.1.2
+- gcr.io/google-samples/adservice:v0.1.2

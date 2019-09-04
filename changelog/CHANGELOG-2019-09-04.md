@@ -4,3 +4,6 @@
 - gcr.io/google-containers/gke-metadata-server:v0.2.9
 - gcr.io/google-containers/gke-metadata-server:da099ce4c87505210e8f9a5704057d222a75e77f
 - gcr.io/google-containers/watcher-daemonset:alpha1
+### 2019-09-04 16:21:27 Update:
+
+- gcr.io/google-samples/ml-pipeline-metadata-logger:v1
